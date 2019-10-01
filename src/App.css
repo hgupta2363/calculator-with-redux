@@ -1,0 +1,29 @@
+.cont{
+    position:absolute;
+    top:100px;
+    left:400px;
+ 
+}
+
+#display{
+    height:100px;
+    background-color: rgb(82, 76, 76);
+   
+    width:100%;
+    color:white;
+    font-size: 25px;
+}
+.op{
+    background-color: orange
+}
+.group{
+   position:relative;
+   left:15px; 
+}
+.div{
+    background-color: aquamarine;
+    border: 2px solid red;
+}
+.button{
+   
+}
