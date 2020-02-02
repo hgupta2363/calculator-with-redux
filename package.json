@@ -1,6 +1,6 @@
 {
   "homepage":"http://hgupta2363.github.io/calculator-with-redux"
-  "name": "react-calculator",
+  "name": "calculator-with-reduxr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
